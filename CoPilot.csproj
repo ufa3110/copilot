@@ -38,9 +38,11 @@
   <ItemGroup>
     <Reference Include="ExileCore">
       <HintPath>..\..\..\OneDrive\Desktop\Alpha-master\API\ExileCore.dll</HintPath>
+      <Private>true</Private>
     </Reference>
     <Reference Include="GameOffsets">
       <HintPath>..\..\..\OneDrive\Desktop\Alpha-master\API\GameOffsets.dll</HintPath>
+      <Private>true</Private>
     </Reference>
   </ItemGroup>
   <PropertyGroup />
