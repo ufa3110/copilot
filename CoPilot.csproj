@@ -36,11 +36,11 @@
     <PackageReference Include="System.Runtime.CompilerServices.Unsafe" Version="5.0.0" />
   </ItemGroup>
   <ItemGroup>
-    <Reference Include="ExileCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\ExileCore.dll</HintPath>
+    <Reference Include="ExileCore">
+      <HintPath>..\..\..\OneDrive\Desktop\Alpha-master\API\ExileCore.dll</HintPath>
     </Reference>
-    <Reference Include="GameOffsets, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\GameOffsets.dll</HintPath>
+    <Reference Include="GameOffsets">
+      <HintPath>..\..\..\OneDrive\Desktop\Alpha-master\API\GameOffsets.dll</HintPath>
     </Reference>
   </ItemGroup>
   <PropertyGroup />
